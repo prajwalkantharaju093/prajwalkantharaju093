@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajwalkantharaju093
+- 👋 Hi, I’m Prajwal Kantharaju
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on related projects
